@@ -9,14 +9,15 @@
 - Django Admin accessible; sample data added
 
 ## Completed Stories
-- #NN Browse executives list — **3 pts**
-- #NN Executive detail — **3 pts**
-- #NN Health route — **1 pt**
-- #NN Staging deploy (Render, Postgres, WhiteNoise) — **5 pts**
+- #08 - "Basic form validation" - **2 pts**
+- #01 — “Browse executives list page” — **3 pts**
+- #02 — “Executive profile detail page” — **3 pts**
+- #00 — “Health check route for uptime” — **1 pt**
+- #00 — “Staging deploy w/ Postgres + static files” — **5 pts**
 
-**Planned:** 12 pts  
-**Completed:** 12 pts  
-**Velocity:** 12  
+**Planned:** 14 pts  
+**Completed:** 14 pts  
+**Velocity:** 14  
 **Completion rate:** 100%
 
 ## Incomplete Stories
