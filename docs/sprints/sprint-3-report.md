@@ -225,7 +225,7 @@ Sprint 4 focuses on moving from MVP to production-ready by adding essential user
 ## 8. Links & Resources
 
 ### Live Application
-- **Staging Environment**: `https://frac-app.onrender.com`
+- **Staging Environment**: https://frac-app.onrender.com
 
 ### GitHub Repository
 - **Repository**: https://github.com/r-nepomuceno/frac-app
